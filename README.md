@@ -5,4 +5,4 @@ Author: Lee-geonwu
 ### Folders
  - week[1-16]: Excerise notbooks for corresponding weeks
  - pracftice: Random practice of mine
- - [you can add any]
+ - [Welcome]
