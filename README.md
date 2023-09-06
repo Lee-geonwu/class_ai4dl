@@ -1,4 +1,4 @@
-# Repository for ai4a1 class
+# Deep Learning for AI class repository
 
 Author: Lee-geonwu
 
